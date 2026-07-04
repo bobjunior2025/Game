@@ -1,0 +1,18 @@
+{
+  "short_name": "NETROM",
+  "name": "NETROM - Streaming de Jogos Retrô",
+  "description": "A Netflix dos jogos clássicos de N64 e PS1 com emulação de alta performance via streaming na nuvem.",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09090b",
+  "theme_color": "#dc2626",
+  "display": "standalone",
+  "orientation": "any"
+}

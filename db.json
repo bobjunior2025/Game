@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "user-jh-admin",
+      "username": "jh_admin",
+      "passwordHash": "0b0f3d8c8f5709a9f11869cd7a4e3e3db224e1ef0f398160b2430993029cb93c",
+      "role": "admin",
+      "createdAt": "2026-07-04T22:31:00.000Z"
+    },
+    {
+      "id": "user-admin",
+      "username": "admin",
+      "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "role": "admin",
+      "createdAt": "2026-07-04T22:19:20.900Z"
+    },
+    {
+      "id": "user-player",
+      "username": "user",
+      "passwordHash": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+      "role": "user",
+      "createdAt": "2026-07-04T22:19:20.901Z"
+    },
+    {
+      "id": "user-1783204021509",
+      "username": "Bobjunior2025",
+      "passwordHash": "6e09c2e750cee8c6d3fb43faaa81d1b8bddd4f15be3e0ab89078c262d6a4407f",
+      "role": "user",
+      "createdAt": "2026-07-04T22:27:01.509Z"
+    }
+  ],
+  "games": []
+}

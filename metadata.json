@@ -1,0 +1,6 @@
+{
+  "name": "NETROM - Netflix dos Jogos Retrô",
+  "description": "NETROM é o serviço de streaming definitivo para os amantes de jogos retrô. Jogue clássicos e homebrews do Nintendo 64 e PlayStation 1 diretamente no seu navegador com o emulador Real WebAssembly integrado, suporte a controle e o Gemini AI Game Assistant para dicas, cheats e lore dos jogos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
